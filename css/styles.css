@@ -16,3 +16,15 @@ body{
 #container h1{
     font-size: 50px;
 }
+
+#cabecera{
+    background-color: #33a;
+    color:  white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline{
+    font-weight: normal;
+}
